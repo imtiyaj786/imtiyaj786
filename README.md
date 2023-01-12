@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/imtiyaj786/imtiyaj786.github.io/blob/master/images/web_development_2.gif))]
+[![MasterHead](https://github.com/imtiyaj786/imtiyaj786.github.io/blob/master/images/animated-presentation-software-header-wide.gif)
 <h1 align="center">Hi 👋, I'm Mohamad Imtiyaj Alam</h1>
 <h3 align="center">A passionate Salesforce Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
