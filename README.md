@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Salesforce Projects**
 
-- 🌱 I’m currently learning **NodeJs**
+- 🌱 I’m currently learning **NextJs & NodeJs**
 
 - 👨‍💻 All of my projects are available at [wait...](wait...)
 
