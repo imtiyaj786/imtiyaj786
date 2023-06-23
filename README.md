@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **NextJs & NodeJs**
 
-- 👨‍💻 All of my projects are available at [wait...](wait...)
+- 👨‍💻 All of my projects are available at [wait...](https://github.com/imtiyaj786?tab=repositories)
 
 - 💬 Ask me about **Salesforce, Flutter, React**
 
