@@ -23,8 +23,6 @@
 <p align="left">
 <a href="https://twitter.com/imimtiyaj786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="imimtiyaj786" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/imtiyaj786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="imtiyaj786" height="30" width="40" /></a>
-<a href="https://kaggle.com/imtiyaj786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="imtiyaj786" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/imtiyaj786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="imtiyaj786" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/imtiyaj786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="imtiyaj786" height="30" width="40" /></a>
 </p>
 
